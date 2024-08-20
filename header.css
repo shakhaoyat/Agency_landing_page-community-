@@ -1,0 +1,75 @@
+.header-area{
+    display: flex;
+}
+.manu{
+    display: flex;
+}
+
+.hero{
+    background-color: #75B9F4;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.center-area{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.center-text{
+    gap: 40px;
+}
+
+.center-border-area{
+    display: flex;
+    gap: 1000px;
+    background-color:#FFBD6D;
+}
+
+.saly-area-upper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.saly-area-down{
+    display: flex;
+    justify-content: space-between;
+}
+
+.scartch-area{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.subscribe-area{
+    background-color: #2ED573    ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input{
+    display: flex;
+    gap: 20px;
+    
+
+}
+.card-container{
+    display: flex;
+}
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    
+  }
+  
+  
+  
+
+  
+  
