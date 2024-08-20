@@ -67,6 +67,38 @@
     margin: auto;
     
   }
+
+ .footer-area{
+    background-color: #FFD281;
+ } 
+
+.start1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titles-2{
+    text-align: right;
+    gap: 20px;
+
+    display: flex;
+}
+
+.start3{
+    display: flex;
+    
+
+}
+.online-banks-img{
+    display: flex;
+    gap: 5px;
+}
+
+.start4{
+    display: flex;
+    ustify-content: space-between;
+    gap: 300px;
+}
   
   
   
